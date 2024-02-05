@@ -10,7 +10,7 @@ Features
 -
 Decentralized Data Anonymization: Implement a decentralized data anonymization mechanism using StarkNet's layer-2 infrastructure, ensuring secure and private processing of sensitive information through hashing or pseudonymization.
 
-Hashing/Pseudonymization Rules: smart contracts that define and enforce anonymization rules using pseudonymization. These contracts enable automated execution of anonymization processes based on predefined conditions.
+Pseudonymization Rules: smart contracts that define and enforce anonymization rules using pseudonymization. These contracts enable automated execution of anonymization processes based on predefined conditions.
 
 Efficient Data Storage: Optimize the storage of anonymized data on the StarkNet blockchain, ensuring both efficiency and scalability. Explore compression techniques and data structuring to enhance overall performance.
 
